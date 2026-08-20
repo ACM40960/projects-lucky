@@ -255,5 +255,5 @@ project poster.
 
 ## Authors
 
-**Xingnuo Li** - Arctic Sea-Ice Decline and Atmospheric CO₂
-**Nandini Hazarika** - Precipitation Trend Analysis Across a European and North Africa
+**Xingnuo Li**(24202272) - Arctic Sea-Ice Decline and Atmospheric CO₂
+**Nandini Hazarika**(25201202) - Precipitation Trend Analysis Across a European and North Africa
